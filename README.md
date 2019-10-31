@@ -1,5 +1,5 @@
 # PES Open Source Workshop
-## Installation Instructions:-
+## Installation Instructions:
 
 ### Linux 
  1. Open the terminal and run the command `sudo apt-get install git`
