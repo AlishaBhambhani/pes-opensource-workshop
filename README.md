@@ -51,7 +51,7 @@ Refer [this link](https://guides.github.com/features/mastering-markdown/) for ma
   git commit -m 'add <github-username> program'
  ```
 
-7. Push your changes to your forked repo `git push origin <branch-name>`
+7. Push your changes to your forked repo 'git push origin <branch-name>'
 
 8. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 
