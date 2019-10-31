@@ -14,10 +14,10 @@
  ### Mac 
  1. Download the latest [Git for Mac installer](https://sourceforge.net/projects/git-osx-installer/files/)
  2. Follow the prompts to install Git.
- 3. Open a terminal and verify the installation was successful by typing `git --version`
+ 3. Open a terminal and verify the installation was successful by typing 'git --version'
 
 ## How to Contribute
- 1. Create a file in the `collaborator` directory with the following format
+ 1. Create a file in the 'collaborator' directory with the following format
 > #### Name: [YOUR NAME](GitHub link)
 > - Place: City, State, Country
 > - Bio: Who are you?
@@ -27,7 +27,7 @@
  
  2. Add a hello world program in your favorite language
     
-    Save it as `github_username_hello-world`.
+    Save it as 'github_username_hello-world'.
   
 Refer [this link](https://guides.github.com/features/mastering-markdown/) for markdown help.
 
@@ -35,7 +35,7 @@ Refer [this link](https://guides.github.com/features/mastering-markdown/) for ma
 
 1. Fork this repository.
 
-2. Clone your fork-ed repo down to your local machine  `git clone <your_forked_url>`
+2. Clone your fork-ed repo down to your local machine  'git clone <your_forked_url>'
 
 3. Create a branch `git checkout -b branch-name`
 
